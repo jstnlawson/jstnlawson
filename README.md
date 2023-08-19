@@ -1,4 +1,4 @@
-### Hello, I'm Justin. Welcome to my github page!
+### Hello, I'm Justin. Welcome to my github!
 
 <a target="_blank" href="https://www.linkedin.com/in/justin-lawson-732298281/"><img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin"></img></a>
 <br/>
