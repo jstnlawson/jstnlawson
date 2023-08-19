@@ -14,6 +14,9 @@ I recently finished an App called the Meeboard. It's an audio sampler that recor
 <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=Node.js&logoColor=339933"></img>
 <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1"></img>
 <img src="https://img.shields.io/badge/Redux_Saga-20232A?style=for-the-badge&logo=Redux-Saga&logoColor=999999"></img>
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React]: https://reactjs.org/
 [javascript.js]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E
