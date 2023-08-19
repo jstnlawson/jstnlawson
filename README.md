@@ -5,4 +5,4 @@
 - 🔭 I’m currently working on a messaging app called Genderstanding.
 - 🌱 I’m currently learning C#.
 
-![alt text] (./images/meeboard.png)
+<img src="./images/meeboard.png">
