@@ -8,6 +8,10 @@ I recently finished an App called the Meeboard. It's an audio sampler that recor
 <img src="./images/meeboard.png">
 <a href = "https://fast-oasis-59176-b290032bbf92.herokuapp.com/#/user">Try it out!</a>
 
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React]: https://reactjs.org/
 [javascript.js]: https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E
