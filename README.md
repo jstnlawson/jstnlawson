@@ -6,7 +6,7 @@
 One of my favorite projects is called the Meeboard. It's a mobile friendly audio sampler that records any sound you want and plays back your recording at different pitches on the keyboard keys. It also have built in synth sounds and effects.
 
 ### **Screenshot**
-<img src="./Screenshot 2024-10-21 at 11.52.11 AM.png">
+<img src="./images/Screenshot 2024-10-21 at 11.52.11 AM.png">
 <a href = "https://jstnlawson.github.io/meeboard-pwa/">TRY IT!</a>
 <br/>
 <br/>
